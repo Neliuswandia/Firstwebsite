@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+}
+
+
+#main{
+    color: #e22b4a;
+    font-size: 240px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:italic;
+    
+    
+}
+
+#side_bar{
+    width: 10px;
+    color: rgb(220, 236, 243);
+    position: absolute;
+    padding-left: 75%;
+    top: 80px;
+}
+
+#side_bar li{
+    font-size: 150px;
+    border-radius: 15px;
+    font-size: 200px;
+    padding-top: 50px;
+}
+
+#side_bar li:hover{
+    color: cyan;
+    font-size: 250px;
+}
+
+
+header {
+    align-items: center;
+    display: flex;
+    padding-left: 1%;
+    align-items:flex-end;
+}
+
+#info{
+    color: aqua;
+    padding-left: 10%;
+    padding-top: 5%;
+    font-size: 160px;
+
+}
+
+img{
+    width: 20%;
+}
